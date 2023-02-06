@@ -2,9 +2,9 @@
 /.swiftpm
 /.build
 /Packages
-/*.xcodeproj
 xcuserdata/
 .*.sw?
 /Benchmarks/.swiftpm
 /Benchmarks/.build
 .docc-build
+/Carthage/
